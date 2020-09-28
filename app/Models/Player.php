@@ -11,4 +11,9 @@ class Player extends Model
         'name'
     ];
 
+    // hasMany relantionship funcion
+    public function games()
+    {
+        return $this->hasMany(Game::class);
+    }
 }
