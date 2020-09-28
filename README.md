@@ -18,9 +18,7 @@ This is an app that randomly creates pairings for a ping-pong tournement bracket
 - save each player's score
 - print games
 
-## On your machine
 
-- Latest version of Vagrant installed
 
 
 
